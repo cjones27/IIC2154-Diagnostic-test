@@ -4,7 +4,8 @@ This repository contains the solution for the diagnostic test of IIC2154 course.
 
 ## Installation
 
-First, make sure you have installed and active your virtual environment
+First, `cd Diagnostic-test` and make sure you have installed and active your virtual environment.
+
 When activated, run
 ```
 pip install -r requirements.txt

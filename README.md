@@ -1,6 +1,6 @@
 # IIC2154-Diagnostic-test
 
-This repository contains the solution for the diagnostic test of IIC2154 course.
+This repository contains the solution for the diagnostic test of IIC2154 course. Gitflow methodology was used for the development.
 
 ## Installation
 
